@@ -24,6 +24,7 @@
     // Hooks
 </script>
 <style scoped lang="scss">
+    // @scss comes from vite.config.js
     @import '@scss/layout/layout.scss';
     
 </style>

@@ -19,6 +19,7 @@ export default defineConfig({
             },
         }),
     ],
+    // here we can add aliases 
     resolve: {
         alias: {
             '@scss': resolve(__dirname, 'public/scss'),
